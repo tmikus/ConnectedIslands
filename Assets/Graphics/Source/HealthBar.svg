@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="HealthBar.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="7.9195959"
+     inkscape:cx="540.06708"
+     inkscape:cy="607.562"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="715"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g3002"
+       transform="translate(356.18252,149.28572)">
+      <g
+         id="layer1-9"
+         inkscape:label="Ship">
+        <path
+           inkscape:export-ydpi="90"
+           inkscape:export-xdpi="90"
+           inkscape:export-filename="C:\Projects\LudumDare\ConnectedWorlds\Assets\Graphics\GenericShipHull.png"
+           sodipodi:nodetypes="cccccc"
+           inkscape:connector-curvature="0"
+           id="rect3765"
+           d="m 160,402.36218 40,-60 40,60 0,210 -80,0 z"
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      </g>
+      <g
+         inkscape:label="Canons"
+         id="layer2">
+        <rect
+           inkscape:export-ydpi="90"
+           inkscape:export-xdpi="90"
+           inkscape:export-filename="C:\Projects\LudumDare\ConnectedWorlds\Assets\Graphics\GenericShipCanon.png"
+           y="442.36218"
+           x="220"
+           height="10"
+           width="50"
+           id="rect3752"
+           style="fill:#000000;fill-opacity:1;stroke:none" />
+        <rect
+           y="472.36218"
+           x="220"
+           height="10"
+           width="50"
+           id="rect3752-1"
+           style="fill:#000000;fill-opacity:1;stroke:none" />
+        <rect
+           y="502.36218"
+           x="220"
+           height="10"
+           width="50"
+           id="rect3752-7"
+           style="fill:#000000;fill-opacity:1;stroke:none" />
+        <rect
+           y="532.36218"
+           x="220"
+           height="10"
+           width="50"
+           id="rect3752-7-4"
+           style="fill:#000000;fill-opacity:1;stroke:none" />
+        <rect
+           y="442.36218"
+           x="130"
+           height="10"
+           width="50"
+           id="rect3752-0"
+           style="fill:#000000;fill-opacity:1;stroke:none" />
+        <rect
+           y="472.36218"
+           x="130"
+           height="10"
+           width="50"
+           id="rect3752-1-9"
+           style="fill:#000000;fill-opacity:1;stroke:none" />
+        <rect
+           y="502.36218"
+           x="130"
+           height="10"
+           width="50"
+           id="rect3752-7-48"
+           style="fill:#000000;fill-opacity:1;stroke:none" />
+        <rect
+           y="532.36218"
+           x="130"
+           height="10"
+           width="50"
+           id="rect3752-7-4-8"
+           style="fill:#000000;fill-opacity:1;stroke:none" />
+        <path
+           inkscape:export-ydpi="90"
+           inkscape:export-xdpi="90"
+           inkscape:export-filename="C:\Projects\LudumDare\ConnectedWorlds\Assets\Graphics\GenericShipCanonBall.png"
+           transform="translate(6.3174829,5)"
+           d="m 108.68252,442.36218 c 0,4.79522 -3.8873,8.68252 -8.68252,8.68252 -4.795222,0 -8.682517,-3.8873 -8.682517,-8.68252 0,-4.79522 3.887295,-8.68251 8.682517,-8.68251 4.79522,0 8.68252,3.88729 8.68252,8.68251 z"
+           sodipodi:ry="8.6825171"
+           sodipodi:rx="8.6825171"
+           sodipodi:cy="442.36218"
+           sodipodi:cx="100"
+           id="path3001"
+           style="fill:#000000;fill-opacity:1;stroke:none"
+           sodipodi:type="arc" />
+      </g>
+    </g>
+    <rect
+       style="fill:#e40000;fill-opacity:1;stroke:#000000;stroke-linejoin:round;stroke-opacity:1;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect3016"
+       width="197.85715"
+       height="15.714286"
+       x="455"
+       y="438.07648"
+       rx="2"
+       ry="2"
+       inkscape:export-filename="C:\Projects\LudumDare\ConnectedWorlds\Assets\Graphics\HealthBarBackground.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#16b800;fill-opacity:1;stroke:none"
+       id="rect3786"
+       width="195.9576"
+       height="13.750133"
+       x="455.98215"
+       y="439.05859"
+       rx="1"
+       ry="1"
+       inkscape:export-filename="C:\Projects\LudumDare\ConnectedWorlds\Assets\Graphics\HealthBar.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+</svg>
